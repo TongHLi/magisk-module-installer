@@ -1,5 +1,6 @@
 # Magisk Installer
 
+
 **Update `README.md` if you want to submit your module to the online repo!**
 
 For more information about how to use this module installer, please refer to [documentations](https://topjohnwu.github.io/Magisk/guides.html)
